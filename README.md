@@ -1,5 +1,5 @@
 # Kaggle-Competition-Natural-Language-Processing-with-Disaster-Tweets
-using ULMFit, RoBERTa, Fastai. Kaggle rank :170
+using ULMFit, RoBERTa, Fastai. Kaggle rank :21/1400
 
 Twitter has become an important communication channel in times of emergency.
 The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
@@ -23,4 +23,4 @@ Each sample in the train and test set has the following information:
     target - in train.csv only, this denotes whether a tweet is about a real disaster (1) or not (0)
 
 
-Kaggle rank : 170
+Kaggle rank : 21/1400
